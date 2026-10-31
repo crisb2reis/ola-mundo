@@ -2,6 +2,8 @@
 
 Bem-vindo ao desenvolvimento Android moderno sem o peso do Android Studio! Neste tutorial, você aprenderá a criar, programar e compilar um app Android em **Kotlin** com **Jetpack Compose** usando apenas o **Visual Studio Code**, gerando o arquivo `.apk` e testando-o diretamente no navegador pelo **Appetize.io**.
 
+> 📦 **Repositório do Projeto no GitHub:** [https://github.com/crisb2reis/ola-mundo](https://github.com/crisb2reis/ola-mundo)
+
 ---
 
 ## 🎯 O que vamos construir?
@@ -279,3 +281,20 @@ Com os recursos de **Limpar** e **Contador de Cliques** já implementados, exper
 1. **Reset Total do Contador:** Modifique a ação do botão **"Limpar"** para também resetar o contador com `clickCount = 0`.
 2. **Personalização Visual com Card:** Envolva o formulário dentro de um `Card` do Material 3 com bordas arredondadas e elevação.
 3. **Validação de Caracteres:** Adicione uma verificação para exibir um aviso caso o nome digitado tenha menos de 3 letras.
+
+---
+
+## 📦 Repositório do Projeto
+
+Todo o código-fonte deste projeto, configurações e guias estão versionados e disponíveis publicamente no GitHub:
+
+* **URL do Repositório:** [https://github.com/crisb2reis/ola-mundo](https://github.com/crisb2reis/ola-mundo)
+* **Clone via HTTPS:**
+  ```bash
+  git clone https://github.com/crisb2reis/ola-mundo.git
+  ```
+* **Clone via SSH:**
+  ```bash
+  git clone git@github.com:crisb2reis/ola-mundo.git
+  ```
+
